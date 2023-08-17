@@ -1,0 +1,9 @@
+body{
+ background-color: khaki(186, 150, 99);
+}
+h1{
+    font-size: 60px;
+    color: wheat(45, 5, 82);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
