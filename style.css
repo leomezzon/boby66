@@ -12,3 +12,20 @@ img{
     height: 300px;
     margin: 30px;
 }
+.cabecalho{
+    background-color: aqua;
+}
+.logo_cabecalho{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 200px;
+}
+.item_lista_cabecalho{
+    font-size: 40px;
+    list-style: none;
+    padding-left:40px;
+}  
