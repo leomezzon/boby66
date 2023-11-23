@@ -1,5 +1,5 @@
 body{
- background-color: khaki(186, 150, 99);
+ background-color: gray
 }
 
 img{
@@ -13,7 +13,7 @@ img{
     margin: 30px;
 }
 .cabecalho{
-    background-color: aqua;
+    background-color: gray;
 }
 .logo_cabecalho{
     width: 300px;
