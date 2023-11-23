@@ -22,7 +22,7 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 .item_lista_cabecalho{
     font-size: 40px;
