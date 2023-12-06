@@ -17,12 +17,12 @@ img{
 }
 .logo_cabecalho{
     width: 300px;
-    margin-left: 650px;
+    margin-left: 750px;
     margin-top: 50px;
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 250px;
+    margin-left: 450px;
 }
 .item_lista_cabecalho{
     font-size: 40px;
