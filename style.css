@@ -27,5 +27,5 @@ img{
 .item_lista_cabecalho{
     font-size: 40px;
     list-style: none;
-    padding-left:400px;
+    padding: left 300px;
 }  
